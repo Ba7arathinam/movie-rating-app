@@ -180,8 +180,8 @@ function MovieDetails(){
   </div> )
 }
 function Home() {
-  return (<div>
-    <h1>Welcome da 😂</h1>
+  return (<div className='cini'>
+    <h1>WELCOME TO CINIMA📽️</h1>
     </div>)
 }
 function Error() {

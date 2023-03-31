@@ -47,6 +47,11 @@
   max-height: 700px;
   padding: 15px;
 }
-
+.cini{
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  justify-items: center;
+}
 
 
